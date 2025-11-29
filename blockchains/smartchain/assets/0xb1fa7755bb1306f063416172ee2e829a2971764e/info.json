@@ -1,0 +1,11 @@
+{
+  "name": "Fils",
+  "symbol": "FLS",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "FLS is a community-driven utility token created for experimentation and blockchain learning purposes.",
+  "website": "https://example.com",
+  "explorer": "https://bscscan.com/token/0xb1fa7755bb1306f063416172ee2e829a2971764e",
+  "status": "active",
+  "id": "0xb1fa7755bb1306f063416172ee2e829a2971764e"
+}
